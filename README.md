@@ -39,9 +39,13 @@ All conditions are combined using an if statement to determine the password stre
 
 
 Output: 
-<img width="551" height="46" alt="1" src="https://github.com/user-attachments/assets/7ec570ed-a689-4ca8-b293-3dbb06686989" />
 
-<img width="476" height="48" alt="2" src="https://github.com/user-attachments/assets/cd895086-bc67-4ce2-8b6d-7f0637b4b197" />
+
+
+
+<img width="450" height="46" alt="1" src="https://github.com/user-attachments/assets/7ec570ed-a689-4ca8-b293-3dbb06686989" />
+
+<img width="450" height="48" alt="2" src="https://github.com/user-attachments/assets/cd895086-bc67-4ce2-8b6d-7f0637b4b197" />
 
 
 
